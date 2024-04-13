@@ -35,3 +35,12 @@ Pricing Rainbow options:
 
 
 
+Pricing Lookback options:
+  Inside  Lookback option.py there are four methods
+    1.Monte Carlo simulation to price both European lookback puts
+    2.binomial tree model to price both European and American lookback puts
+    3.quick approach: Based on the same binomial tree framework, devise and implement a quick approach to determine the Smax list for each node to price lookback puts.
+    4.Cheuk_and_Vorst : Implement the method in Cheuk and Vorst (1997) to price European and American lookback puts.
+
+
+
